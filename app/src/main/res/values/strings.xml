@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloSample</string>
+    <string name="name">お名前を入力してください</string>
+    <string name="hyouji">表示</string>
+    <string name="clear">クリア</string>
+
+</resources>
